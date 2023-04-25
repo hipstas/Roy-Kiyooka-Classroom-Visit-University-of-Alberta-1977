@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-roy-kiyooka.json",
+  "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-roy-kiyooka.json",
   "type": "AnnotationPage",
   "label": "Roy Kiyooka",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "40,162"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "220,228"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "229,232"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "241,319"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "328,330"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "348,354"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "364,369"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "370,371"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "372,418"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "427,432"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "443,453"
@@ -261,7 +261,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "459,484"
@@ -283,7 +283,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "508,552"
@@ -305,7 +305,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "563,568"
@@ -327,7 +327,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "572,631"
@@ -349,7 +349,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "635,671"

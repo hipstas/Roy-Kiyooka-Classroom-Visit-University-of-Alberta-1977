@@ -1,18 +1,18 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/manifest.json",
+    "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Audio clip from Roy Kiyooka Classroom Visit at the University of Alberta, 1977 (SW153a-b)" ] },
     "items": [
       {
-        "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
+        "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 671,
         "annotations": [
           
           {
             "type": "AnnotationPage",
-            "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-doug-barbour.json",
+            "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-doug-barbour.json",
             "label": {
               "none": ["Doug Barbour"]
             }
@@ -20,7 +20,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-first-student.json",
+            "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-first-student.json",
             "label": {
               "none": ["First Student"]
             }
@@ -28,7 +28,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-audience.json",
+            "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-audience.json",
             "label": {
               "none": ["Audience"]
             }
@@ -36,7 +36,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-second-student.json",
+            "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-second-student.json",
             "label": {
               "none": ["Second Student"]
             }
@@ -44,7 +44,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-third-student.json",
+            "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-third-student.json",
             "label": {
               "none": ["Third Student"]
             }
@@ -52,7 +52,7 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-roy-kiyooka.json",
+            "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/annotations/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b--canvas-1-roy-kiyooka.json",
             "label": {
               "none": ["Roy Kiyooka"]
             }
@@ -60,11 +60,11 @@
         ],
         "items": [
           {
-            "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/paintings",
+            "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/painting",
+                "id": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -73,7 +73,7 @@
                   "format": "audio/mp3",
                     "duration": 671
                 },
-                "target": "https://zachmorrison.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas"
+                "target": "https://hipstas.github.io/Roy-Kiyooka-Classroom-Visit-University-of-Alberta-1977/audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-/canvas-1/canvas"
               }
             ]
           }
