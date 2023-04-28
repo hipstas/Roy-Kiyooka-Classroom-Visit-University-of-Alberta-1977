@@ -102,7 +102,6 @@ h1 {
     </head>
     
     <body>
-        <h1>Paranoid Desire</h1>
         <p><center>Zach Morrison</center></p>
         <div id="byline">A 1977 recording of a classroom dialogue at the University of Alberta featuring Japanese-Canadian artist Roy Kiyooka</div>
             <div id="cf3">
