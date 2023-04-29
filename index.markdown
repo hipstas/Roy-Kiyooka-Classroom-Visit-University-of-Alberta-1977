@@ -102,8 +102,8 @@ h1 {
     </head>
     
     <body>
-        <p><center>Zach Morrison</center></p>
-        <div id="byline">A 1977 recording of a classroom dialogue at the University of Alberta featuring Japanese-Canadian artist Roy Kiyooka</div>
+        <p><center> <div id="byline">A 1977 recording of a classroom dialogue at the University of Alberta featuring Japanese-Canadian artist Roy Kiyooka</div></center></p>
+       <p><center> Zach Morrison</center></p>
             <div id="cf3">
                 <img class="top" src="https://user-images.githubusercontent.com/119261903/228941767-3755d1ed-9591-4043-bb5e-76e417ed5e36.jpeg" />
                 <img class="top" src="https://user-images.githubusercontent.com/119261903/228941765-e05b996a-2266-4e0c-8887-22bb1d8ffe7f.jpeg" />
