@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Roy Kiyooka Classroom Visit at the University of Alberta - Audio
 manifest_name: audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-
 permalink: audio-clip-from-roy-kiyooka-classroom-visit-at-the-university-of-alberta-1977-sw153a-b-
